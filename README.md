@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://info.mollie.com/hubfs/github/sylius/logo.png" width="128" height="128"/>
+</p>
+<h1 align="center">Mollie for Sylius</h1>
+
+
 <h1 align="center">
-    <a href="http://www.mollie.com" target="_blank">
-        <img src="https://www.mollie.nl/files/Mollie-Logo-Style-Small.png" />
-    </a>
-    <br />
     <a href="https://packagist.org/packages/bitbag/mollie-plugin" title="License" target="_blank">
         <img src="https://img.shields.io/packagist/l/bitbag/mollie-plugin.svg" />
     </a>
